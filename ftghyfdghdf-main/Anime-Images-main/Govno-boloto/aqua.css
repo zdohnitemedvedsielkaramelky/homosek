@@ -1,0 +1,50 @@
+li {
+    list-style-type: none;
+   }
+   ul {
+    margin-left: 5; 
+    padding-left: 5; 
+   }
+p{
+margin-left: 200px; 
+}
+
+a {
+  
+  color: #ffffff;
+  text-decoration: none;
+ }
+ a:link {
+    color: #ffffff; 
+    
+   }
+   a:hover { 
+    color: #ffffff;  
+   } 
+ }
+   .thumb img  {  
+
+   
+   }
+   .thumb{
+     padding-top:100px;
+     padding-left: 350px;
+   }
+   .toper{
+    top: 10px;
+    position: absolute;
+   }
+
+   .toper1{
+    top: 30px;
+    position: absolute;
+    margin-top: 45px;
+   }
+   .aeeee{
+    margin: 20px;
+  }
+
+  .govno{
+     margin: 20px;
+  }
+  
